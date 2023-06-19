@@ -388,7 +388,7 @@
                     "type": "EmailMessage",
                     "subject": "how are you doing today?",
                     "to": "adam@soclabdemo.onmicrosoft.com",
-                    "from": "attacker.malicious@gmail.com"
+                    "from": "maliciousattacker769@gmail.com"
                 },
                 "6": {
                     "type": "file",
@@ -457,7 +457,7 @@
                     "type": "EmailMessage",
                     "subject": "did you like my photo?",
                     "to": "bob@soclabdemo.onmicrosoft.com",
-                    "from": "attacker.malicious@gmail.com"
+                    "from": "maliciousattacker769@gmail.com"
                 },
                 "6": {
                     "type": "file",
