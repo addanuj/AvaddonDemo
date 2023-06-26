@@ -6,8 +6,8 @@
             "id": "observed-data--44040e07-cc05-484f-bdd2-2a7bda1b2dd2",
             "type": "observed-data",
             "created_by_ref": "identity--e009dd41-ea6e-4647-a762-85b87b461d20",
-            "created": "2023-06-19T06:47:52.599Z",
-            "modified": "2023-06-19T06:47:52.599Z",
+            "created": "2023-06-25T10:25:58.714Z",
+            "modified": "2023-06-25T10:25:58.714Z",
             "objects": {
                 "0": {
                     "type": "domain-name",
@@ -72,18 +72,18 @@
                 "type": "UnauthorizedAccess:EC2/SSHBruteForce",
                 "severity": 2,
                 "title": "192.168.100.23 is performing SSH brute force attacks against eni-02e70b8e842c70a2f. ",
-                "timestamp": "2023-06-19T06:47:52.599Z"
+                "timestamp": "2023-06-25T10:25:58.714Z"
             },
-            "first_observed": "2023-06-19T06:47:52.599Z",
-            "last_observed": "2023-06-19T06:47:52.599Z",
+            "first_observed": "2023-06-25T10:25:58.714Z",
+            "last_observed": "2023-06-25T10:25:58.714Z",
             "number_observed": 1
         },
         {
             "id": "observed-data--33ac6415-4b15-42bc-9d61-88163cb9bbc3",
             "type": "observed-data",
             "created_by_ref": "identity--e009dd41-ea6e-4647-a762-85b87b461d20",
-            "created": "2023-06-19T06:47:52.599Z",
-            "modified": "2023-06-19T06:47:52.599Z",
+            "created": "2023-06-25T10:25:58.714Z",
+            "modified": "2023-06-25T10:25:58.714Z",
             "objects": {
                 "0": {
                     "type": "domain-name",
@@ -135,22 +135,22 @@
                 "type": "Recon:EC2/PortProbeUnprotectedPort",
                 "severity": 2,
                 "title": "Unprotected port on EC2 instance i-0b8fd03ade35c681d is being probed.",
-                "timestamp": "2023-06-19T06:47:52.599Z"
+                "timestamp": "2023-06-25T10:25:58.714Z"
             },
             "x_com_aws": {
                 "account_id": "979326520502",
                 "region": "us-east-1"
             },
-            "first_observed": "2023-06-19T06:47:52.599Z",
-            "last_observed": "2023-06-19T06:47:52.599Z",
+            "first_observed": "2023-06-25T10:25:58.714Z",
+            "last_observed": "2023-06-25T10:25:58.714Z",
             "number_observed": 1
         },
         {
             "id": "observed-data--44040e07-cc05-484f-bdc3-2a8bca1b2ad8",
             "type": "observed-data",
             "created_by_ref": "identity--e009dd41-ea6e-4647-a762-85b87b461d20",
-            "created": "2023-06-19T06:47:52.599Z",
-            "modified": "2023-06-19T06:47:52.599Z",
+            "created": "2023-06-25T10:25:58.714Z",
+            "modified": "2023-06-25T10:25:58.714Z",
             "objects": {
                 "0": {
                     "type": "domain-name",
@@ -222,10 +222,10 @@
                 "type": "Filetranfer:EC2/suspicious filetransfer activity",
                 "severity": 2,
                 "title": "192.168.100.23 is performing attacks against eni-02e70b8e842c70a2f.",
-                "timestamp": "2023-06-19T06:47:52.599Z"
+                "timestamp": "2023-06-25T10:25:58.714Z"
             },
-            "first_observed": "2023-06-19T06:47:52.599Z",
-            "last_observed": "2023-06-19T06:47:52.599Z",
+            "first_observed": "2023-06-25T10:25:58.714Z",
+            "last_observed": "2023-06-25T10:25:58.714Z",
             "number_observed": 1
         }
     ]
